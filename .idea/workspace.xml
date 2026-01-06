@@ -4,7 +4,45 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0083587b-55b6-4b87-8201-01e686a2d02c" name="Changes" comment="" />
+    <list default="true" id="0083587b-55b6-4b87-8201-01e686a2d02c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-01-2026/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-01-2026/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-01-2026/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-01-2026/.idea/Capgemini_Training.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-01-2026/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-01-2026/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-01-2026/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-01-2026/out/production/Capgemini_Training/Practice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-01-2026/src/Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-01-2026/src/Practice_folder_2/question_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-01-2026/src/Practice_folder_2/question_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-01-2026/src/Practice_folder_2/question_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-01-2026/src/Practice_folder_2/question_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-01-2026/src/Practice_folder_2/question_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-01-2026/src/Practice_folder_2/question_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-01-2026/src/Practice_folder_2/question_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-01-2026/src/Practice_folder_3/question_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-01-2026/src/Practice_folder_3/question_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-01-2026/src/Practice_folder_3/question_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-01-2026/src/Practice_folder_3/question_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Capgemini_Training.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Capgemini_Training/Practice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Capgemini_Training/Practice_folder_2/question_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Capgemini_Training/Practice_folder_2/question_2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Capgemini_Training/Practice_folder_2/question_3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Capgemini_Training/Practice_folder_2/question_4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Capgemini_Training/Practice_folder_2/question_5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Capgemini_Training/Practice_folder_2/question_6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Capgemini_Training/Practice_folder_2/question_7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Capgemini_Training/Practice_folder_3/question_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Capgemini_Training/Practice_folder_3/question_2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Capgemini_Training/Practice_folder_3/question_3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Capgemini_Training/Practice_folder_3/question_4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,7 +79,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "feature",
+    "git-widget-placeholder": "Merging main",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
